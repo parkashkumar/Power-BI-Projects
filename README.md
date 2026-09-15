@@ -26,7 +26,7 @@ The project demonstrates an end-to-end Business Intelligence workflow, from raw 
 
 ### Sales by Region and Date
 
-![Sales by Region and Date](04_Sales%20by%20region,%20date_Analysis.png.png)
+![Sales by Region, and Date_Analysis](04_Sales%20by%20region,%20date_Analysis.png.png)
 
 ### Interactive Product Tooltip
 
