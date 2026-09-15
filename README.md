@@ -10,27 +10,27 @@ The project demonstrates an end-to-end Business Intelligence workflow, from raw 
 
 ### Executive Overview
 
-![Dashboard Overview](00_Overview.png.png)
+![Dashboard Overview](Sales-Performance-Logistics-Dashboard/00_Overview.png.png)
 
 ### Sales Analysis
 
-![Sales Analysis](02_Sales_Analysis.png.png)
+![Sales Analysis](Sales-Performance-Logistics-Dashboard/02_Sales_Analysis.png.png)
 
 ### Cost & Logistics Analysis
 
-![Cost & Logistics Analysis](03_Cost_Logistics_Analysis.png.png)
+![Cost & Logistics Analysis](Sales-Performance-Logistics-Dashboard/03_Cost_Logistics_Analysis.png.png)
 
 ### Revenue Analysis by Category
 
-![Revenue by Category](04_Revenue_AnalysisBy%20category.png.png)
+![Revenue by Category](Sales-Performance-Logistics-Dashboard/04_Revenue_AnalysisBy%20category.png.png)
 
 ### Sales by Region and Date
 
-![Sales by Region, and Date_Analysis](04_Sales%20by%20region,%20date_Analysis.png.png)
+![Sales by Region and Date](Sales-Performance-Logistics-Dashboard/04_Sales%20by%20region,%20date_Analysis.png.png)
 
 ### Interactive Product Tooltip
 
-![Product Tooltip](Tooltips%20feature%20by%20product.png)
+![Product Tooltip](Sales-Performance-Logistics-Dashboard/Tooltips%20feature%20by%20product.png)
 
 ---
 
