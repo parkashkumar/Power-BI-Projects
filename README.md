@@ -88,7 +88,7 @@ The dashboard integrates multiple data sources:
 Interested in working together or discussing a project?
 
 📧 **Email:**  parkash.prem04@gmail.com  
-💼 **LinkedIn:** [Connect with me]([YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/parkash-kumar-017b07a5/))  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/parkash-kumar-017b07a5/))  
 💻 **GitHub:** [View my projects](https://github.com/parkashkumar) 
 
 
