@@ -83,6 +83,14 @@ The dashboard integrates multiple data sources:
 | `producthierarchy.csv` | Product hierarchy information |
 | `store_cities.csv` | Store and geographic information |
 | `Store costs.xlsx` | Store-related cost information |
+## Contact
+
+Interested in working together or discussing a project?
+
+📧 **Email:**  parkash.prem04@gmail.com  
+💼 **LinkedIn:** [Connect with me]([YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/parkash-kumar-017b07a5/))  
+💻 **GitHub:** [View my projects](https://github.com/parkashkumar) 
+
 
 ---
 
